@@ -1,0 +1,12 @@
+C:\Users\alena\source\repos\Module34\HomeApi\HomeApi.Contracts\bin\Debug\net5.0\HomeApi.Contracts.deps.json
+C:\Users\alena\source\repos\Module34\HomeApi\HomeApi.Contracts\bin\Debug\net5.0\HomeApi.Contracts.dll
+C:\Users\alena\source\repos\Module34\HomeApi\HomeApi.Contracts\bin\Debug\net5.0\ref\HomeApi.Contracts.dll
+C:\Users\alena\source\repos\Module34\HomeApi\HomeApi.Contracts\bin\Debug\net5.0\HomeApi.Contracts.pdb
+C:\Users\alena\source\repos\Module34\HomeApi\HomeApi.Contracts\obj\Debug\net5.0\HomeApi.Contracts.csproj.AssemblyReference.cache
+C:\Users\alena\source\repos\Module34\HomeApi\HomeApi.Contracts\obj\Debug\net5.0\HomeApi.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alena\source\repos\Module34\HomeApi\HomeApi.Contracts\obj\Debug\net5.0\HomeApi.Contracts.AssemblyInfoInputs.cache
+C:\Users\alena\source\repos\Module34\HomeApi\HomeApi.Contracts\obj\Debug\net5.0\HomeApi.Contracts.AssemblyInfo.cs
+C:\Users\alena\source\repos\Module34\HomeApi\HomeApi.Contracts\obj\Debug\net5.0\HomeApi.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\alena\source\repos\Module34\HomeApi\HomeApi.Contracts\obj\Debug\net5.0\HomeApi.Contracts.dll
+C:\Users\alena\source\repos\Module34\HomeApi\HomeApi.Contracts\obj\Debug\net5.0\ref\HomeApi.Contracts.dll
+C:\Users\alena\source\repos\Module34\HomeApi\HomeApi.Contracts\obj\Debug\net5.0\HomeApi.Contracts.pdb

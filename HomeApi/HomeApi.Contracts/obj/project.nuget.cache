@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fdKfpRDvayMRtv6yYNvy5VZo0xGqrCUUSC9kmhrE8ltqgBC+NXoBp6+fcJzeGppLiqXcUtsLUCcU21HPAYG+4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alena\\source\\repos\\Module34\\HomeApi\\HomeApi.Contracts\\HomeApi.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alena\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\alena\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\alena\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
+    "C:\\Users\\alena\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

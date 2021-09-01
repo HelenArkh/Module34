@@ -1,0 +1,9 @@
+{
+    "name": "Чайник",
+    "manufacturer": "Bosh",
+    "model": "G-022",
+    "serialNumber": "g56884g-sn2",
+    "currentVolts": 12,
+    "gasUsage": false,
+    "location": "Kitchen"
+}
